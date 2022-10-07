@@ -1,12 +1,13 @@
+
 ## :hand: Hello, I'm Jean Manzo!
 
-I'm fullstack developer advocated to E-commerce solutions to the world. I've created plugins, themes and apps for **Wordpress, Woocommerce and Shopify**.
-I've had the chance to be inmersed inside a variety of projects where I have learned to work with a big scope of tech stacks.
+I'm a Fullstack developer focused on E-commerce solutions. I've created plugins, themes and apps for **Wordpress, Woocommerce and Shopify**.
+I've had the chance to be immersed in a variety of projects where I have learned to work with a big scope of tech stacks.
 
 
-## What I'm focusing right now :computer:
+## What I'm focusing on right now :computer:
 
-My main goal is to provide value to the world, and I've choosen E-commerce because it seems pretty interesting and useful for me. So I'm always creating e-commerce applications and plugins.
+My main goal is to provide value to the world, and I've chosen E-commerce because it seems pretty interesting and useful to me. So I'm always creating e-commerce applications and plugins.
 
 **Also, find me in:**
 
