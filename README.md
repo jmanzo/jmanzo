@@ -1,19 +1,12 @@
 
-## :hand: Hi, I am Fullstack Developer!
-
-For now, I'm focused on E-commerce solutions. I create plugins, themes and apps for **Wordpress, Woocommerce and Shopify**.
-I've had the chance to be immersed in a variety of projects where I've learned to work with a big scope of tech stacks.
-
-## What I'm focusing on right now :computer:
-
-My main goal is to provide value to the world, and I've chosen e-commerce because it’s an exciting field where my strengths are most applicable. I create solutions for merchants and customers, allowing them to focus on their business and leave the technical details to me.
+## :hand: Hi, I am Fullstack Developer! :computer:
 
 **Also, find me in: [LinkedIn](https://www.linkedin.com/in/jdevmanzo/)**
 
 ## Tech Stack
 #### Development:
-- JavaScript
-- PHP
+- Typescript
+- Python
 - MongoDB
 - PostgreSQL
 - MySQL
@@ -32,7 +25,6 @@ My main goal is to provide value to the world, and I've chosen e-commerce becaus
 - MacOS
 
 #### Other Knowledge:
-- CRO Technical Implementation & Strategies
 - E-commerce Development
 - AI Prompting with GPT Models
-- Code Copilots & Code Assistances.
+- Code Copilots & AI Code Assistances.
