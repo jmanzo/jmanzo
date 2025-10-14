@@ -1,30 +1,16 @@
+### Hi, I'm J. Manzo 👋
 
-## :hand: Hi, I am Fullstack Developer! :computer:
+**Shopify & Fullstack Developer** specializing in building and optimizing high-performance e-commerce solutions. I transform complex problems into clean, scalable code.
 
-**Also, find me in: [LinkedIn](https://www.linkedin.com/in/jdevmanzo/)**
+- **Upwork:** [Top Rated Freelancer](https://www.upwork.com/freelancers/jdevmanzo)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jdevmanzo/)
 
-## Tech Stack
-#### Development:
-- Typescript
-- Python
-- MongoDB
-- PostgreSQL
-- MySQL
-- SQLite
-- Liquid
+---
 
-#### Servers
-- AWS
-- Docker
-- Heroku
-- Vercel
+### 💻 Tech Stack
 
-#### Operating System:
-- Linux
-- Windows
-- MacOS
-
-#### Other Knowledge:
-- E-commerce Development
-- AI Prompting with GPT Models
-- Code Copilots & AI Code Assistances.
+- **Shopify:** Liquid, Custom Theme & App Development, Shopify APIs
+- **Languages:** TypeScript, JavaScript, Python
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Cloud & DevOps:** AWS, Docker, Vercel, Render
+- **AI Tools:** GPT Prompting & AI Code Assistants
